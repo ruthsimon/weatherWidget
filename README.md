@@ -32,4 +32,6 @@ Weather Update: Create a function that changes weather conditions cyclically thr
 
 Time Update: The widget's current time should be updated on a regular basis.
 
+## How It Works
 
+![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVydWZhc2U4ejI2azMwaHg1NDBydG9tN3J4enU5eTUyNHZqZ3Q0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kM3EVwRBk7ll4La7pU/giphy.gif)
