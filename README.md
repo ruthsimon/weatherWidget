@@ -16,6 +16,8 @@ Dependencies:
 Qt framework
 C++ compiler (e.g., g++, MSVC)
 
+##Implementation
+
 Quick overview of how the "Weather Widget" task was implemented:
 
 Initialization: When you create a widget, establish the window title and size, as well as the labels for temperature, location, weather, and time. Set up timers to update the time and weather conditions.
