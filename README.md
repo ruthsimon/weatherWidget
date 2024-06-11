@@ -16,7 +16,7 @@ Dependencies:
 Qt framework
 C++ compiler (e.g., g++, MSVC)
 
-##Implementation
+#Implementation
 
 Quick overview of how the "Weather Widget" task was implemented:
 
