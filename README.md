@@ -34,4 +34,4 @@ Time Update: The widget's current time should be updated on a regular basis.
 
 ## How It Works
 
-![Demo](https://youtube.com/shorts/yE9IyVemWDk?feature=share)
+![Demo]([media/demo.gif](https://youtube.com/shorts/yE9IyVemWDk?feature=share)
