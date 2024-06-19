@@ -34,4 +34,4 @@ Time Update: The widget's current time should be updated on a regular basis.
 
 ## How It Works
 
-![Demo](https://www.kapwing.com/videos/6672860e1855819b7c7200e0)
+![Demo](<div style="height: 542.99px; width: 300.00px; position:relative;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/6672860e1855819b7c7200e0" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div><p style="font-size: 12px; text-align: right;">Video edited on <a href="https://www.kapwing.com/video-editor">Kapwing</a></p>)
