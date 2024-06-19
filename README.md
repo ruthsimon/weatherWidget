@@ -35,3 +35,6 @@ Time Update: The widget's current time should be updated on a regular basis.
 ## How It Works
 
 ![Demo](https://www.kapwing.com/e/6672860e1855819b7c7200e0)
+
+[Watch the Demo Video](https://www.kapwing.com/e/6672860e1855819b7c7200e0)
+
