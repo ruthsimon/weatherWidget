@@ -34,7 +34,7 @@ Time Update: The widget's current time should be updated on a regular basis.
 
 ## How It Works
 
-![Demo](https://www.kapwing.com/e/6672860e1855819b7c7200e0)
+![Demo](https://www.canva.com/design/DAGJTnc5020/mffbZvSEK35Ie8cH1aJtMg/watch?utm_content=DAGJTnc5020&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 [Watch the Demo Video](https://www.kapwing.com/e/6672860e1855819b7c7200e0)
 
